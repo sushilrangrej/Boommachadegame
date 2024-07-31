@@ -1,0 +1,5 @@
+Android test id 
+ca-app-pub-3212738706492790~5949485661
+
+iOS test id 
+ca-app-pub-3212738706492790~4234003410
